@@ -1,0 +1,59 @@
+.contain {
+  margin: auto;
+    width: 50%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: 1px solid;
+    border-radius: 25px;
+
+}
+
+.clock {
+  margin: auto;
+  width: 50%;
+  padding-top: 50px;
+}
+
+.block {
+  margin: auto;
+  width: 50%;
+  padding-top: 50px;
+}
+
+.title {
+
+    padding-left: 185px;
+
+}
+
+
+.title2 {
+  padding-top: 10px;
+    padding-left: 220px;
+
+}
+
+
+.box {
+  margin: auto;
+  padding-top: 10px;
+  padding-left: 259px;
+}
+
+.box2 {
+  margin: auto;
+  padding-top: 10px;
+  padding-left: 282px;
+}
+
+.box3 {
+  margin: auto;
+  padding-top: 10px;
+  padding-left: 618px;
+}
+
+.stopbox {
+  margin: auto;
+  padding-top: 10px;
+  padding-left: 289px;
+}
